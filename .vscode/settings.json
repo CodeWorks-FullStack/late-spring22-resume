@@ -1,0 +1,27 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#e0d349",
+    "activityBar.activeBorder": "#1ca398",
+    "activityBar.background": "#e0d349",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#1ca398",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "sash.hoverBorder": "#e0d349",
+    "statusBar.background": "#d2c324",
+    "statusBar.debuggingBackground": "#2433d2",
+    "statusBar.debuggingForeground": "#e7e7e7",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#a69b1d",
+    "statusBarItem.remoteBackground": "#d2c324",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#d2c324",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#d2c32499",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#d2c324",
+  "cSpell.words": [
+    "Shannahan"
+  ]
+}
